@@ -11,6 +11,7 @@ This is a repository with my solutions to different problems from different sour
 
 * [Problem 1 - Multiples of 3 and 5](https://projecteuler.net/problem=1) - [solução](project_euler/problem1)
 * [Problem 3 - Largest prime factor](https://projecteuler.net/problem=3) - [solução](project_euler/problem3)
+* [Problem 4 - Largest palindrome product](https://projecteuler.net/problem=4) - [solução](project_euler/problem4)
 
 ## SPOJ Problems (in English) ##
 
