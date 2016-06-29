@@ -24,6 +24,7 @@ This is a repository with my solutions to different problems from different sour
 * Problem 4 - [Largest palindrome product](https://projecteuler.net/problem=4) - [solution](project_euler/problem4)
 * Problem 5 - [Smallest multiple](https://projecteuler.net/problem=5) - [solution](project_euler/problem5)
 * Problem 6 - [Sum square difference](https://projecteuler.net/problem=6) - [solution](project_euler/problem6)
+* Problem 7 - [10001st prime](https://projecteuler.net/problem=7) - [solution](project_euler/problem7) 
 
 
 ## SPOJ Problems (in English) ##
