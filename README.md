@@ -1,21 +1,34 @@
 # Problems solved with coding #
 
-This is a repository with my solutions to different problems from different sources ([Project Euler][euler], [SPOJ][spoj], and others). Some problems are in English and others are in Portuguese. The languages used are C and Python.
+This is a repository with my solutions to different problems from different sources ([Project Euler][euler], [SPOJ][spoj], [Hacker Rank][hackerrank], and others). Some problems are in English and others are in Portuguese. The languages used are C and Python.
+
+## Hacker Rank ##
+
+* [Hacker Rank's website][hackerrank]
+* My username: [jessicacarneiro](https://www.hackerrank.com/jessicacarneiro)
+
+### Index of solved problems ###
+
+* [Game of Thrones I](https://www.hackerrank.com/challenges/game-of-thrones) - [solution](hacker_rank/game_of_thrones)
+
 
 ## Project Euler Problems (in English) ##
 
-* Project Euler's website: [Project Euler][euler]
+* [Project's Euler website][euler]
 * My username: jessicacarneiro
 
 ### Index of solved problems ###
 
-* [Problem 1 - Multiples of 3 and 5](https://projecteuler.net/problem=1) - [solução](project_euler/problem1)
-* [Problem 3 - Largest prime factor](https://projecteuler.net/problem=3) - [solução](project_euler/problem3)
-* [Problem 4 - Largest palindrome product](https://projecteuler.net/problem=4) - [solução](project_euler/problem4)
+* Problem 1 - [Multiples of 3 and 5](https://projecteuler.net/problem=1) - [solution](project_euler/problem1)
+* Problem 3 - [Largest prime factor](https://projecteuler.net/problem=3) - [solution](project_euler/problem3)
+* Problem 4 - [Largest palindrome product](https://projecteuler.net/problem=4) - [solution](project_euler/problem4)
+* Problem 5 - [Smallest multiple](https://projecteuler.net/problem=5) - [solution](project_euler/problem5)
+* Problem 6 - [Sum square difference](https://projecteuler.net/problem=6) - [solution](project_euler/problem6)
+
 
 ## SPOJ Problems (in English) ##
 
-* SPOJ's website: [SPOJ][spoj]
+* [SPOJ's website][spoj]
 * Username: [jesscarneiro][profile]
 
 ### Index of solved problems ###
@@ -24,7 +37,7 @@ This is a repository with my solutions to different problems from different sour
 
 ## SPOJ-BR Problems (in Portuguese) ##
 
-* Site SPOJ-BR: [SPOJ-BR][spojbr]
+* [Site do SPOJ-BR][spojbr]
 * Usuário: [jesscarneiro][profilebr]
 
 ### Índice de problemas resolvidos: ###
@@ -49,6 +62,8 @@ This is a repository with my solutions to different problems from different sour
 
 
 [euler]: http://projecteuler.net/
+[hackerrank]: https://www.hackerrank.com/
+
 [profile]:  http://.spoj.com/users/jesscarneiro/
 [profilebr]:  http://br.spoj.com/users/jesscarneiro/
 [spoj]: http://www.spoj.com/
