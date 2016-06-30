@@ -9,6 +9,7 @@ This is a repository with my solutions to different problems from different sour
 
 ### Index of solved problems ###
 
+* [Solve me first](https://www.hackerrank.com/challenges/solve-me-first) - [solution](hacker_rank/solve_me_first)
 * [Game of Thrones I](https://www.hackerrank.com/challenges/game-of-thrones) - [solution](hacker_rank/game_of_thrones)
 * [Pangrams](https://www.hackerrank.com/challenges/pangrams) - [solution](hacker_rank/pangram)
 
