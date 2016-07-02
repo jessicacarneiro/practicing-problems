@@ -16,6 +16,7 @@ This is a repository with my solutions to different problems from different sour
 * [Array DS](https://www.hackerrank.com/challenges/arrays-ds) - [solution](hacker_rank/array_ds)
 * [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro) - [solution](hacker_rank/tutorial_intro)
 * [Kangaroo](https://www.hackerrank.com/contests/w21/challenges/kangaroo/) - [solution](hacker_rank/kangaroo)
+* [Find the median](https://www.hackerrank.com/challenges/find-median) - [solution](hacker_rank/find_median)
 
 
 ## Project Euler Problems (in English) ##
