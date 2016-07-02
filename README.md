@@ -17,6 +17,8 @@ This is a repository with my solutions to different problems from different sour
 * [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro) - [solution](hacker_rank/tutorial_intro)
 * [Kangaroo](https://www.hackerrank.com/contests/w21/challenges/kangaroo/) - [solution](hacker_rank/kangaroo)
 * [Find the median](https://www.hackerrank.com/challenges/find-median) - [solution](hacker_rank/find_median)
+* [Bash - Hello]() - [solution](hacker_rank/bash/hello.sh)
+* [Bash - Looping and skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping) - [solution](hacker_rank/bash/odd_99.sh)
 
 
 ## Project Euler Problems (in English) ##
