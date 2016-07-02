@@ -13,6 +13,9 @@ This is a repository with my solutions to different problems from different sour
 * [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) - [solution](hacker_rank/simple_array_sum)
 * [Game of Thrones I](https://www.hackerrank.com/challenges/game-of-thrones) - [solution](hacker_rank/game_of_thrones)
 * [Pangrams](https://www.hackerrank.com/challenges/pangrams) - [solution](hacker_rank/pangram)
+* [Array DS](https://www.hackerrank.com/challenges/arrays-ds) - [solution](hacker_rank/array_ds)
+* [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro) - [solution](hacker_rank/tutorial_intro)
+* [Kangaroo](https://www.hackerrank.com/contests/w21/challenges/kangaroo/) - [solution](hacker_rank/kangaroo)
 
 
 ## Project Euler Problems (in English) ##
