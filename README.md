@@ -18,6 +18,7 @@ This is a repository with my solutions to different problems from different sour
 * [Kangaroo](https://www.hackerrank.com/contests/w21/challenges/kangaroo/) - [solution](hacker_rank/kangaroo)
 * [Find the median](https://www.hackerrank.com/challenges/find-median) - [solution](hacker_rank/find_median)
 * [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits) - [solution](hacker_rank/flipping_bits)
+* [Operators](https://www.hackerrank.com/challenges/30-operators) - [solution](hacker_rank/operators)
 * Bash - [Hello]() - [solution](hacker_rank/bash/hello.sh)
 * Bash - [Looping and skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping) - [solution](hacker_rank/bash/odd_99.sh)
 * Project Euler Contest - [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) - [solution](hacker_rank/project_euler_contest/pe1.c) - __timeout error__
