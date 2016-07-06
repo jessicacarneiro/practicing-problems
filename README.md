@@ -20,15 +20,15 @@ This is a repository with my solutions to different problems from different sour
 * [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits) - [solution](hacker_rank/flipping_bits)
 * [Operators](https://www.hackerrank.com/challenges/30-operators) - [solution](hacker_rank/operators)
 * 30 Days of Code - [Day 0: Hello, World.
-](https://www.hackerrank.com/challenges/30-hello-world) - [solution](hacker_rank/30_day/day0.py)
+](https://www.hackerrank.com/challenges/30-hello-world) - [solution](hacker_rank/30_days/day0.py)
 * 30 Days of Code - [Day 01: Data Types
-](https://www.hackerrank.com/challenges/30-data-types) - [solution](hacker_rank/30_day/day1.py)
+](https://www.hackerrank.com/challenges/30-data-types) - [solution](hacker_rank/30_days/day1.py)
 * 30 Days of Code - [Day 02: Operators
-](https://www.hackerrank.com/challenges/30-operators) - [solution](hacker_rank/30_day/day2.py)
+](https://www.hackerrank.com/challenges/30-operators) - [solution](hacker_rank/30_days/day2.py)
 * 30 Days of Code - [Day 03: Intro to Conditional Statements
-](https://www.hackerrank.com/challenges/30-conditional-statements) - [solution](hacker_rank/30_day/day3.py)
+](https://www.hackerrank.com/challenges/30-conditional-statements) - [solution](hacker_rank/30_days/day3.py)
 * 30 Days of Code - [Day 04: Class vs. Instance
-](https://www.hackerrank.com/challenges/30-class-vs-instance) - [solution](hacker_rank/30_day/day4.py)
+](https://www.hackerrank.com/challenges/30-class-vs-instance) - [solution](hacker_rank/30_days/day4.py)
 * Bash - [Hello]() - [solution](hacker_rank/bash/hello.sh)
 * Bash - [Looping and skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping) - [solution](hacker_rank/bash/odd_99.sh)
 * Project Euler Contest - [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) - [solution](hacker_rank/project_euler_contest/pe1.c) - __timeout error__
