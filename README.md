@@ -29,6 +29,8 @@ This is a repository with my solutions to different problems from different sour
 ](https://www.hackerrank.com/challenges/30-conditional-statements) - [solution](hacker_rank/30_days/day3.py)
 * 30 Days of Code - [Day 04: Class vs. Instance
 ](https://www.hackerrank.com/challenges/30-class-vs-instance) - [solution](hacker_rank/30_days/day4.py)
+* 30 Days of Code - [Day 05: Loops
+](https://www.hackerrank.com/challenges/30-loops) - [solution](hacker_rank/30_days/day5.py)
 * Bash - [Hello]() - [solution](hacker_rank/bash/hello.sh)
 * Bash - [Looping and skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping) - [solution](hacker_rank/bash/odd_99.sh)
 * Project Euler Contest - [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) - [solution](hacker_rank/project_euler_contest/pe1.c) - __timeout error__
