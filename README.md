@@ -37,6 +37,8 @@ This is a repository with my solutions to different problems from different sour
 ](https://www.hackerrank.com/challenges/30-arrays) - [solution](hacker_rank/30_days/day7.py)
 * 30 Days of Code - [Day 08: Dictionaries and Maps
 ](https://www.hackerrank.com/challenges/30-dictionaries-and-maps) - [solution](hacker_rank/30_days/day8.py)
+* 30 Days of Code - [Day 09: Recursion
+](https://www.hackerrank.com/challenges/30-recursion) - [solution](hacker_rank/30_days/day9.py)
 * Bash - [Hello]() - [solution](hacker_rank/bash/hello.sh)
 * Bash - [Looping and skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping) - [solution](hacker_rank/bash/odd_99.sh)
 * Project Euler Contest - [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) - [solution](hacker_rank/project_euler_contest/pe1.c) - __timeout error__
