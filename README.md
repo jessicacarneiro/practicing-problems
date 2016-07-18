@@ -19,6 +19,7 @@ This is a repository with my solutions to different problems from different sour
 * [Find the median](https://www.hackerrank.com/challenges/find-median) - [solution](hacker_rank/find_median)
 * [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits) - [solution](hacker_rank/flipping_bits)
 * [Operators](https://www.hackerrank.com/challenges/30-operators) - [solution](hacker_rank/operators)
+* [And Product](https://www.hackerrank.com/challenges/and-product) - [solution](hacker_rank/and_product) - __timeout__
 * 30 Days of Code - [Day 0: Hello, World.
 ](https://www.hackerrank.com/challenges/30-hello-world) - [solution](hacker_rank/30_days/day0.py)
 * 30 Days of Code - [Day 01: Data Types
@@ -47,6 +48,10 @@ This is a repository with my solutions to different problems from different sour
 ](https://www.hackerrank.com/challenges/30-inheritance) - [solution](hacker_rank/30_days/day12.py)
 * 30 Days of Code - [Day 13: Abstract Classes
 ](https://www.hackerrank.com/challenges/30-abstract-classes) - [solution](hacker_rank/30_days/day13)
+* 30 Days of Code - [Day 14: Scope
+](https://www.hackerrank.com/challenges/30-scope) - [solution](hacker_rank/30_days/day14.py)
+* 30 Days of Code - [Day 16: Exceptions - String to Integer
+](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) - [solution](hacker_rank/30_days/day16.py)
 * Bash - [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo) - [solution](hacker_rank/bash/hello.sh)
 * Bash - [Looping and skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping) - [solution](hacker_rank/bash/odd_99.sh)
 * Project Euler Contest - [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) - [solution](hacker_rank/project_euler_contest/pe1.c) - __timeout error__
