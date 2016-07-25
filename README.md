@@ -54,6 +54,8 @@ This is a repository with my solutions to different problems from different sour
 ](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) - [solution](hacker_rank/30_days/day16.py)
 * 30 Days of Code - [Day 17: More Exceptions
 ](https://www.hackerrank.com/challenges/30-more-exceptions) - [solution](hacker_rank/30_days/day17.py)
+* 30 Days of Code - [Day 18: Queues and Stacks
+](https://www.hackerrank.com/challenges/30-queues-stacks) - [solution](hacker_rank/30_days/day18.py)
 * Bash - [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo) - [solution](hacker_rank/bash/hello.sh)
 * Bash - [Looping and skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping) - [solution](hacker_rank/bash/odd_99.sh)
 * Project Euler Contest - [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) - [solution](hacker_rank/project_euler_contest/pe1.c) - __timeout error__
