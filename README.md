@@ -20,7 +20,7 @@ This is a repository with my solutions to different problems from different sour
 * [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits) - [solution](hacker_rank/flipping_bits)
 * [Operators](https://www.hackerrank.com/challenges/30-operators) - [solution](hacker_rank/operators)
 * [And Product](https://www.hackerrank.com/challenges/and-product) - [solution](hacker_rank/and_product) - __timeout__
-* 30 Days of Code - [Day 0: Hello, World.
+* 30 Days of Code - [Day 00: Hello, World.
 ](https://www.hackerrank.com/challenges/30-hello-world) - [solution](hacker_rank/30_days/day0.py)
 * 30 Days of Code - [Day 01: Data Types
 ](https://www.hackerrank.com/challenges/30-data-types) - [solution](hacker_rank/30_days/day1.py)
@@ -60,8 +60,10 @@ This is a repository with my solutions to different problems from different sour
 ](https://www.hackerrank.com/challenges/30-queues-stacks) - [solution](hacker_rank/30_days/day18.py)
 * 30 Days of Code - [Day 19: Interfaces
 ](https://www.hackerrank.com/challenges/30-interfaces) - [solution](hacker_rank/30_days/day19)
-* 30 Days of Code - [Day 23: BST Level-Order Traversal
+* 30 Days of Code - [Day 23: BST More Linked Lists
 ](https://www.hackerrank.com/challenges/30-binary-trees) - [solution](hacker_rank/30_days/day23.py)
+* 30 Days of Code - [Day 24: BST Level-Order Traversal
+](https://www.hackerrank.com/challenges/30-linked-list-deletion) - [solution](hacker_rank/30_days/day24.py)
 * Bash - [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo) - [solution](hacker_rank/bash/hello.sh)
 * Bash - [Looping and skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping) - [solution](hacker_rank/bash/odd_99.sh)
 * Project Euler Contest - [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) - [solution](hacker_rank/project_euler_contest/pe1.c) - __timeout error__
