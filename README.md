@@ -51,7 +51,7 @@ This is a repository with my solutions to different problems from different sour
 * 30 Days of Code - [Day 14: Scope
 ](https://www.hackerrank.com/challenges/30-scope) - [solution](hacker_rank/30_days/day14.py)
 * 30 Days of Code - [Day 15: Linked List
-](https://www.hackerrank.com/challenges/30-linked-list) - [solution](hacker_rank/30_days/day15/day15.py)
+](https://www.hackerrank.com/challenges/30-linked-list) - [solution](hacker_rank/30_days/day15/day15.py) __check__
 * 30 Days of Code - [Day 16: Exceptions - String to Integer
 ](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) - [solution](hacker_rank/30_days/day16.py)
 * 30 Days of Code - [Day 17: More Exceptions
@@ -62,6 +62,8 @@ This is a repository with my solutions to different problems from different sour
 ](https://www.hackerrank.com/challenges/30-interfaces) - [solution](hacker_rank/30_days/day19)
 * 30 Days of Code - [Day 20: Sorting
 ](https://www.hackerrank.com/challenges/30-sorting) - [solution](hacker_rank/30_days/day20.py)
+* 30 Days of Code - [Day 21: Generics
+](https://www.hackerrank.com/challenges/30-generics) - [solution](hacker_rank/30_days/day21)
 * 30 Days of Code - [Day 23: BST More Linked Lists
 ](https://www.hackerrank.com/challenges/30-binary-trees) - [solution](hacker_rank/30_days/day23.py)
 * 30 Days of Code - [Day 24: BST Level-Order Traversal
