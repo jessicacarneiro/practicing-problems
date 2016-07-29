@@ -72,6 +72,8 @@ This is a repository with my solutions to different problems from different sour
 ](https://www.hackerrank.com/challenges/30-running-time-and-complexity) - [solution](hacker_rank/30_days/day25.py)
 * 30 Days of Code - [Day 26: Nested Logic
 ](https://www.hackerrank.com/challenges/30-nested-logic) - [solution](hacker_rank/30_days/day26.py)
+* 30 Days of Code - [Day 27: Testing
+](https://www.hackerrank.com/challenges/30-testing) - [solution](hacker_rank/30_days/day27.py)
 * Bash - [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo) - [solution](hacker_rank/bash/hello.sh)
 * Bash - [Looping and skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping) - [solution](hacker_rank/bash/odd_99.sh)
 * Project Euler Contest - [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) - [solution](hacker_rank/project_euler_contest/pe1.c) - __timeout error__
