@@ -2,6 +2,8 @@
 
 This is a repository with my solutions to different problems from different sources ([Project Euler][euler], [SPOJ][spoj], [Hacker Rank][hackerrank], and others). Some problems are in English and others are in Portuguese. The languages used are Bash, C, Java, Python.
 
+---
+
 ## Hacker Rank ##
 
 * [Hacker Rank's website][hackerrank]
@@ -80,6 +82,7 @@ This is a repository with my solutions to different problems from different sour
 * Bash - [Looping and skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping) - [solution](hacker_rank/bash/odd_99.sh)
 * Project Euler Contest - [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) - [solution](hacker_rank/project_euler_contest/pe1.c) - __timeout error__
 
+---
 
 ## Project Euler Problems (in English) ##
 
@@ -95,6 +98,7 @@ This is a repository with my solutions to different problems from different sour
 * Problem 6 - [Sum square difference](https://projecteuler.net/problem=6) - [solution](project_euler/problem6)
 * Problem 7 - [10001st prime](https://projecteuler.net/problem=7) - [solution](project_euler/problem7) 
 
+---
 
 ## SPOJ Problems (in English) ##
 
@@ -103,6 +107,7 @@ This is a repository with my solutions to different problems from different sour
 
 ### Index of solved problems ###
 
+---
 
 
 ## SPOJ-BR Problems (in Portuguese) ##
