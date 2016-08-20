@@ -101,6 +101,7 @@ This is a repository with my solutions to different problems from different sour
 * Problem 7 - [10001st prime](https://projecteuler.net/problem=7) - [solution](project_euler/problem7) 
 * Problem 8 - [Largest product in a series](https://projecteuler.net/problem=8) - [solution](project_euler/problem8) 
 * Problem 10 - [Summation of primes](https://projecteuler.net/problem=10) - [solution](project_euler/problem10) 
+* Problem 11 - [Largest product in a grid](https://projecteuler.net/problem=11) - [solution](project_euler/problem11) 
 * Problem 20 - [Factorial digit sum](https://projecteuler.net/problem=20) - [solution](project_euler/problem20) 
 
 ---
