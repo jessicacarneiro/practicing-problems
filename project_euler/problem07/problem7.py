@@ -1,9 +1,5 @@
-'''What is the 10 001st prime number?'''
-
 from math import sqrt
 
-'''Returns false if n is divisible by 
-a number that is not itself or 1'''
 def is_prime(n):
 	for i in range(2,int(sqrt(n))+1):
 		if(n % i == 0):

@@ -11,17 +11,6 @@ This is a repository with my solutions to different problems from different sour
 
 ### Index of solved problems ###
 
-* [Solve me first](https://www.hackerrank.com/challenges/solve-me-first) - [solution](hacker_rank/solve_me_first)
-* [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) - [solution](hacker_rank/simple_array_sum)
-* [Game of Thrones I](https://www.hackerrank.com/challenges/game-of-thrones) - [solution](hacker_rank/game_of_thrones)
-* [Pangrams](https://www.hackerrank.com/challenges/pangrams) - [solution](hacker_rank/pangram)
-* [Array DS](https://www.hackerrank.com/challenges/arrays-ds) - [solution](hacker_rank/array_ds)
-* [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro) - [solution](hacker_rank/tutorial_intro)
-* [Kangaroo](https://www.hackerrank.com/contests/w21/challenges/kangaroo/) - [solution](hacker_rank/kangaroo)
-* [Find the median](https://www.hackerrank.com/challenges/find-median) - [solution](hacker_rank/find_median)
-* [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits) - [solution](hacker_rank/flipping_bits)
-* [Operators](https://www.hackerrank.com/challenges/30-operators) - [solution](hacker_rank/operators)
-* [And Product](https://www.hackerrank.com/challenges/and-product) - [solution](hacker_rank/and_product) - __timeout__
 * 30 Days of Code - [Day 00: Hello, World.
 ](https://www.hackerrank.com/challenges/30-hello-world) - [solution](hacker_rank/30_days/day0.py)
 * 30 Days of Code - [Day 01: Data Types
@@ -82,6 +71,20 @@ This is a repository with my solutions to different problems from different sour
 ](https://www.hackerrank.com/challenges/30-bitwise-and) - [solution](hacker_rank/30_days/day29.c)
 * Bash - [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo) - [solution](hacker_rank/bash/hello.sh)
 * Bash - [Looping and skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping) - [solution](hacker_rank/bash/odd_99.sh)
+* Challenges - [Solve me first](https://www.hackerrank.com/challenges/solve-me-first) - [solution](hacker_rank/challenges/solve_me_first)
+* Challenges - [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) - [solution](hacker_rank/challenges/simple_array_sum)
+* Challenges - [Game of Thrones I](https://www.hackerrank.com/challenges/game-of-thrones) - [solution](hacker_rank/game_of_thrones)
+* Challenges - [Pangrams](https://www.hackerrank.com/challenges/pangrams) - [solution](hacker_rank/challenges/pangram)
+* Challenges - [Array DS](https://www.hackerrank.com/challenges/arrays-ds) - [solution](hacker_rank/challenges/array_ds)
+* Challenges - [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro) - [solution](hacker_rank/challenges/tutorial_intro)
+* Challenges - [Kangaroo](https://www.hackerrank.com/contests/w21/challenges/kangaroo/) - [solution](hacker_rank/challenges/kangaroo)
+* Challenges - [Find the median](https://www.hackerrank.com/challenges/find-median) - [solution](hacker_rank/challenges/find_median)
+* Challenges - [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits) - [solution](hacker_rank/challenges/flipping_bits)
+* Challenges - [Operators](https://www.hackerrank.com/challenges/30-operators) - [solution](hacker_rank/challenges/operators)
+* Challenges - [And Product](https://www.hackerrank.com/challenges/and-product) - [solution](hacker_rank/challenges/and_product) - __timeout__
+* Functional Programming - [Solve me first](https://www.hackerrank.com/challenges/fp-solve-me-first) - [solution](hacker_rank/functional_programmin/solve_me_first.hs)
+* Functional Programming - [Hello World](https://www.hackerrank.com/challenges/fp-hello-world) - [solution](hacker_rank/functional_programmin/hello_world.clj)
+* Mathematics - [Find the point](https://www.hackerrank.com/challenges/find-point) - [solution](hacker_rank/mathematics/find_the_point/)
 * Project Euler Contest - [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) - [solution](hacker_rank/project_euler_contest/pe1.c) - __timeout error__
 
 ---
