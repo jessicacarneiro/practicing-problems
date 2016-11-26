@@ -107,6 +107,8 @@ This is a repository with my solutions to different problems from different sour
 * Problem 10 - [Summation of primes](https://projecteuler.net/problem=10) - [solution](project_euler/problem10) 
 * Problem 11 - [Largest product in a grid](https://projecteuler.net/problem=11) - [solution](project_euler/problem11) 
 * Problem 13 - [Largest sum](https://projecteuler.net/problem=13) - [solution](project_euler/problem13) 
+* Problem 14 - [Longest Collatz sequence](https://projecteuler.net/problem=14) - [solution](project_euler/problem14)
+* Problem 16 - [Power digit sum](https://projecteuler.net/problem=16) - [solution](project_euler/problem16)
 * Problem 20 - [Factorial digit sum](https://projecteuler.net/problem=20) - [solution](project_euler/problem20) 
 
 ---
