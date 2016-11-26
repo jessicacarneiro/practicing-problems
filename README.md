@@ -86,6 +86,7 @@ This is a repository with my solutions to different problems from different sour
 * Functional Programming - [Hello World](https://www.hackerrank.com/challenges/fp-hello-world) - [solution](hacker_rank/functional_programmin/hello_world.clj)
 * Mathematics - [Find the point](https://www.hackerrank.com/challenges/find-point) - [solution](hacker_rank/mathematics/find_the_point/)
 * Project Euler Contest - [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) - [solution](hacker_rank/project_euler_contest/pe1.c) - __timeout error__
+* Python/Introduction - [Hello, World!](https://www.hackerrank.com/challenges/py-hello-world) - [solution](python/introduction/hello_world.py)
 
 ---
 
@@ -105,6 +106,7 @@ This is a repository with my solutions to different problems from different sour
 * Problem 8 - [Largest product in a series](https://projecteuler.net/problem=8) - [solution](project_euler/problem8) 
 * Problem 10 - [Summation of primes](https://projecteuler.net/problem=10) - [solution](project_euler/problem10) 
 * Problem 11 - [Largest product in a grid](https://projecteuler.net/problem=11) - [solution](project_euler/problem11) 
+* Problem 13 - [Largest sum](https://projecteuler.net/problem=13) - [solution](project_euler/problem13) 
 * Problem 20 - [Factorial digit sum](https://projecteuler.net/problem=20) - [solution](project_euler/problem20) 
 
 ---

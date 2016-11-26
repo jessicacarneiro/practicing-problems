@@ -100,7 +100,8 @@ num = "37107287533902102798797998220837590246510135740250" + \
 "53503534226472524250874054075591789781264330331690"
 
 total = 0
-for i in range(0, len(num)):
-  total += int(num[i])
+for i in range(0, len(num),50):
+  total += int(num[i:i+50])
 
-print total
+ten = str(total)
+print ten[0:10]
