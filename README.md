@@ -87,7 +87,19 @@ This is a repository with my solutions to different problems from different sour
 * Mathematics - [Find the point](https://www.hackerrank.com/challenges/find-point) - [solution](hacker_rank/mathematics/find_the_point/)
 * Project Euler Contest - [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) - [solution](hacker_rank/project_euler_contest/pe1.c) - __timeout error__
 * Python/Introduction - [Hello, World!](https://www.hackerrank.com/challenges/py-hello-world) - [solution](python/introduction/hello_world.py)
-
+* Python/Introduction - [Reading Raw Input](https://www.hackerrank.com/challenges/python-raw-input) - [solution](python/introduction/reading_raw_input.py)
+* Python/Introduction - [Python If-Else](https://www.hackerrank.com/challenges/py-if-else) - [solution](python/introduction/if_else.py)
+* Python/Introduction - [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators) - [solution](python/introduction/arithmetic_operators.py)
+* Python/Introduction - [Division](https://www.hackerrank.com/challenges/python-division) - [solution](python/introduction/division.py)
+* Python/Introduction - [Loops](https://www.hackerrank.com/challenges/python-loops) - [solution](python/introduction/loops.py)
+* Python/Introduction - [Write a Function](https://www.hackerrank.com/challenges/write-a-function) - [solution](python/introduction/write_a_function.py)
+* Python/Introduction - [Print Function](https://www.hackerrank.com/challenges/python-print) - [solution](python/introduction/print_function.py)
+* Python/Basic Data Types - [Lists](https://www.hackerrank.com/challenges/python-lists) - [solution](python/basic_data_types/lists.py)
+* Python/Basic Data Types - [Tuples](https://www.hackerrank.com/challenges/python-tuples) - [solution](python/basic_data_types/tuples.py)
+* Python/Basic Data Types - [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions) - [solution](python/basic_data_types/list_comprehensions.py)
+* Python/Basic Data Types - [Find Second Largest Number in a List](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list) - [solution](python/basic_data_types/second_largest_number.py)
+* Python/Basic Data Types - [Nested Lists](https://www.hackerrank.com/challenges/nested-list) - [solution](python/basic_data_types/nested_lists.py)
+* Python/Basic Data Types - [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage) - [solution](python/basic_data_types/percentage.py)
 ---
 
 ## Project Euler Problems (in English) ##
