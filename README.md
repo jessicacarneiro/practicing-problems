@@ -134,7 +134,6 @@ This is a repository with my solutions to different problems from different sour
 
 ---
 
-
 ## SPOJ-BR Problems (in Portuguese) ##
 
 * [Site do SPOJ-BR][spojbr]
@@ -160,14 +159,29 @@ This is a repository with my solutions to different problems from different sour
 * [Soma][soma] - [solução](spoj_br/soma)
 * [Jogo de Varetas][varetas] - [solução](spoj_br/varetas)
 
+---
+
+## URI Online Judge Problems (in Portuguese) ##
+
+* [Site do URI][uribr]
+* Usuário: [25003][uriprofile]
+
+### Índice de problemas resolvidos: ###
+
+* [Extremamente Básico][basico] - [solução](uri/1001)
+* [Fibonacci, Quantas chamadas?][fibonacci] - [solução](uri/1029)
+
+
 
 [euler]: http://projecteuler.net/
 [hackerrank]: https://www.hackerrank.com/
+[uribr]: https://www.urionlinejudge.com.br/
 
 [profile]:  http://.spoj.com/users/jesscarneiro/
 [profilebr]:  http://br.spoj.com/users/jesscarneiro/
 [spoj]: http://www.spoj.com/
-[spojbr]:   http://br.spoj.com/
+[spojbr]: http://br.spoj.com/
+[uriprofile]: https://www.urionlinejudge.com.br/judge/pt/profile/25003
 
 
 [test]: http://www.spoj.com/problems/TEST/
@@ -191,4 +205,5 @@ This is a repository with my solutions to different problems from different sour
 [soma]:     http://br.spoj.com/problems/SOMA/
 [varetas]:  http://br.spoj.com/problems/VARETAS/
 
-
+[basico]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1001
+[fibonacci]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1029
