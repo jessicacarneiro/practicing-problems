@@ -174,6 +174,7 @@ This is a repository with my solutions to different problems from different sour
 * [Soma Simples][soma] - [solução](uri/1003)
 * [Produto Simples][prod] - [solução](uri/1004)
 * [Média 1][media1] - [solução](uri/1005)
+* [Média 2][media2] - [solução](uri/1006)
 
 
 [euler]: http://projecteuler.net/
@@ -214,3 +215,4 @@ This is a repository with my solutions to different problems from different sour
 [soma]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1003
 [prod]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1004
 [media1]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1005
+[media2]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1006
