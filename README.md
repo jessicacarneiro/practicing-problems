@@ -171,6 +171,7 @@ This is a repository with my solutions to different problems from different sour
 * [Extremamente Básico][basico] - [solução](uri/1001)
 * [Fibonacci, Quantas chamadas?][fibonacci] - [solução](uri/1029)
 * [Área do Círculo][circulo] - [solução](uri/1002)
+* [Soma Simples][soma] - [solução](uri/1003)
 
 
 
@@ -209,3 +210,4 @@ This is a repository with my solutions to different problems from different sour
 [basico]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1001
 [fibonacci]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1029
 [circulo]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1002
+[soma]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1003
