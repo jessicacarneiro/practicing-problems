@@ -1,6 +1,6 @@
 # Problems solved with coding #
 
-This is a repository with my solutions to different problems from different sources ([Project Euler][euler], [SPOJ][spoj], [Hacker Rank][hackerrank], and others). Some problems are in English and others are in Portuguese. The languages used are Bash, C, Java, Python.
+This is a repository with my solutions to different problems from different sources ([Project Euler][euler], [SPOJ][spoj], [Hacker Rank][hackerrank], and others). Some problems are in English and others are in Portuguese. The languages used are Bash, C, Java, Python, Go, SML, and others.
 
 ---
 
@@ -175,6 +175,10 @@ This is a repository with my solutions to different problems from different sour
 * [Produto Simples][prod] - [solução](uri/1004)
 * [Média 1][media1] - [solução](uri/1005)
 * [Média 2][media2] - [solução](uri/1006)
+* [Diferença][diff] - [solução](uri/1007)
+* [Salário][salario] - [solução](uri/1008)
+* [Salário com Bônus][bonus] - [solução](uri/1009)
+* [Cálculo Simples][calculo] - [solução](uri/1010)
 
 
 [euler]: http://projecteuler.net/
@@ -216,3 +220,7 @@ This is a repository with my solutions to different problems from different sour
 [prod]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1004
 [media1]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1005
 [media2]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1006
+[diff]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1007
+[salario]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1008
+[bonus]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1009
+[calculo]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1010
