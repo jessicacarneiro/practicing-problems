@@ -172,7 +172,8 @@ This is a repository with my solutions to different problems from different sour
 * [Fibonacci, Quantas chamadas?][fibonacci] - [solução](uri/1029)
 * [Área do Círculo][circulo] - [solução](uri/1002)
 * [Soma Simples][soma] - [solução](uri/1003)
-
+* [Produto Simples][prod] - [solução](uri/1004)
+* [Média 1][media1] - [solução](uri/1005)
 
 
 [euler]: http://projecteuler.net/
@@ -211,3 +212,5 @@ This is a repository with my solutions to different problems from different sour
 [fibonacci]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1029
 [circulo]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1002
 [soma]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1003
+[prod]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1004
+[media1]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1005
