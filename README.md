@@ -183,6 +183,9 @@ This is a repository with my solutions to different problems from different sour
 * [Área][area] - [solução](uri/1012)
 * [Maior][maior] - [solução](uri/1013)
 * [Consumo][consumo] - [solução](uri/1014)
+* [Distância Entre Dois Pontos][distancia] - [solução](uri/1015)
+* [Distância][distancia2] - [solução](uri/1016)
+* [Gasto de Combustível][combustivel] = [solução](uri/2017)
 
 
 [euler]: http://projecteuler.net/
@@ -232,3 +235,6 @@ This is a repository with my solutions to different problems from different sour
 [area]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1012
 [maior]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1013
 [consumo]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1014
+[distancia]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1015
+[distancia2]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1016
+[combustivel]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1017
