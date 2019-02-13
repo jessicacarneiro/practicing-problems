@@ -185,7 +185,11 @@ This is a repository with my solutions to different problems from different sour
 * [Consumo][consumo] - [solução](uri/1014)
 * [Distância Entre Dois Pontos][distancia] - [solução](uri/1015)
 * [Distância][distancia2] - [solução](uri/1016)
-* [Gasto de Combustível][combustivel] = [solução](uri/2017)
+* [Gasto de Combustível][combustivel] = [solução](uri/1017)
+* [Cédulas][cedulas] = [solução](uri/1018)
+* [Conversão de Tempo][tempo] = [solução](uri/1019)
+* [Idade em Dias][idade] = [solução](uri/1020)
+* [Fibonacci, Quantas Chamadas?][fibonacci] = [solução](uri/1029)
 
 
 [euler]: http://projecteuler.net/
@@ -238,3 +242,8 @@ This is a repository with my solutions to different problems from different sour
 [distancia]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1015
 [distancia2]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1016
 [combustivel]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1017
+[cedulas]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1018
+[tempo]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1019
+[idade]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1020
+[fibonacci]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1029
+
