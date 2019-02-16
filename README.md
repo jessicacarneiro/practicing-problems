@@ -189,6 +189,7 @@ This is a repository with my solutions to different problems from different sour
 * [Cédulas][cedulas] - [solução](uri/1018)
 * [Conversão de Tempo][tempo] - [solução](uri/1019)
 * [Idade em Dias][idade] - [solução](uri/1020)
+* [Notas e Moedas][notas_moedas] - [solução](uri/1021)
 * [Fibonacci, Quantas Chamadas?][fibonacci] - [solução](uri/1029)
 * [Alinhamento Lunar][alinhamento] - [solução](uri/2514)
 
@@ -246,5 +247,6 @@ This is a repository with my solutions to different problems from different sour
 [cedulas]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1018
 [tempo]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1019
 [idade]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1020
+[notas_moedas]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1021
 [fibonacci]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1029
 [alinhamento]: https://www.urionlinejudge.com.br/judge/pt/problems/view/2514
