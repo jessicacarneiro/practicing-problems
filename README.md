@@ -1,6 +1,6 @@
 # Problems solved with coding #
 
-This is a repository with my solutions to different problems from different sources ([Project Euler][euler], [SPOJ][spoj], [Hacker Rank][hackerrank], and others). Some problems are in English and others are in Portuguese. The languages used are Bash, C, Java, Python, Go, SML, Haskell, and others.
+This is a repository with my solutions to different problems from different sources ([Project Euler][euler], [SPOJ][spoj], [Hacker Rank][hackerrank], [URI Online Judge][uribr], and others). Some problems are in English and others are in Portuguese. The languages used are Bash, C, C++, Java, Python, Go, SML, Haskell, and others.
 
 ---
 
@@ -185,11 +185,12 @@ This is a repository with my solutions to different problems from different sour
 * [Consumo][consumo] - [solução](uri/1014)
 * [Distância Entre Dois Pontos][distancia] - [solução](uri/1015)
 * [Distância][distancia2] - [solução](uri/1016)
-* [Gasto de Combustível][combustivel] = [solução](uri/1017)
-* [Cédulas][cedulas] = [solução](uri/1018)
-* [Conversão de Tempo][tempo] = [solução](uri/1019)
-* [Idade em Dias][idade] = [solução](uri/1020)
-* [Fibonacci, Quantas Chamadas?][fibonacci] = [solução](uri/1029)
+* [Gasto de Combustível][combustivel] - [solução](uri/1017)
+* [Cédulas][cedulas] - [solução](uri/1018)
+* [Conversão de Tempo][tempo] - [solução](uri/1019)
+* [Idade em Dias][idade] - [solução](uri/1020)
+* [Fibonacci, Quantas Chamadas?][fibonacci] - [solução](uri/1029)
+* [Alinhamento Lunar][alinhamento] - [solução](uri/2514)
 
 
 [euler]: http://projecteuler.net/
@@ -246,4 +247,4 @@ This is a repository with my solutions to different problems from different sour
 [tempo]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1019
 [idade]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1020
 [fibonacci]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1029
-
+[alinhamento]: https://www.urionlinejudge.com.br/judge/pt/problems/view/2514
