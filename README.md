@@ -193,6 +193,7 @@ This is a repository with my solutions to different problems from different sour
 * [Fibonacci, Quantas Chamadas?][fibonacci] - [solução](uri/1029)
 * [Alinhamento Lunar][alinhamento] - [solução](uri/2514)
 * [I am Toorg!][toorg] - [solução](uri/2581)
+* [Mais Cavalos][cavalos] - [solução](uri/2808)
 
 [euler]: http://projecteuler.net/
 [hackerrank]: https://www.hackerrank.com/
@@ -251,3 +252,4 @@ This is a repository with my solutions to different problems from different sour
 [fibonacci]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1029
 [alinhamento]: https://www.urionlinejudge.com.br/judge/pt/problems/view/2514
 [toorg]: https://www.urionlinejudge.com.br/judge/pt/problems/view/2581
+[cavalos]: https://www.urionlinejudge.com.br/judge/pt/problems/view/2808
