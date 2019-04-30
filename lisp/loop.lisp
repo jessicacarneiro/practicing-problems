@@ -1,0 +1,1 @@
+(loop for item in (quote (this list will get printed in titlecase)) do (format t "~@(~A~) " item))
