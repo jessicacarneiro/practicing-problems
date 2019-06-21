@@ -192,6 +192,7 @@ This is a repository with my solutions to different problems from different sour
 * [Idade em Dias][idade] - [solução](uri/1020)
 * [Notas e Moedas][notas_moedas] - [solução](uri/1021)
 * [Fibonacci, Quantas Chamadas?][fibonacci] - [solução](uri/1029)
+* [Lanche][lanche] - [solução](uri/1038)
 * [Alinhamento Lunar][alinhamento] - [solução](uri/2514)
 * [I am Toorg!][toorg] - [solução](uri/2581)
 * [Mais Cavalos][cavalos] - [solução](uri/2808)
@@ -254,3 +255,4 @@ This is a repository with my solutions to different problems from different sour
 [alinhamento]: https://www.urionlinejudge.com.br/judge/pt/problems/view/2514
 [toorg]: https://www.urionlinejudge.com.br/judge/pt/problems/view/2581
 [cavalos]: https://www.urionlinejudge.com.br/judge/pt/problems/view/2808
+[lanche]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1038
