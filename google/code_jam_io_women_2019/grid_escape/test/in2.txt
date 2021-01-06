@@ -1,0 +1,3 @@
+2 5
+N S N S S
+S N W E S
