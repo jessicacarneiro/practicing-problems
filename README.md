@@ -108,6 +108,11 @@ This is a repository with my solutions to different problems from different sour
 * 10 Days of Javascript - [Day 2: Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else/problem) - [solution](hacker_rank/10_days_js/day2_conditionals.js)
 * 10 Days of Javascript - [Day 2: Loops](https://www.hackerrank.com/challenges/js10-loops/problem) - [solution](hacker_rank/10_days_js/day2_loops.js)
 * Interview Preparation Kit - Warm-up challgenges: [Sock merchant](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) - [solution](hacker_rank/interview_prep_kit/sock_merchant.cs)
+* C++ - [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) - [solution](hacker_rank/cpp/hello_world.cpp)
+* C++ - [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) - [solution](hacker_rank/cpp/input_and_output.cpp)
+* C++ - [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem) - [solution](hacker_rank/cpp/basic_data_types.cpp)
+* C++ - [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) - [solution](hacker_rank/cpp/conditional_statements.cpp)
+
 ---
 
 ## Project Euler Problems (in English) ##
